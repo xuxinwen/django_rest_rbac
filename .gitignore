@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+*.sqlite3
+.coverage
+covhtml/
+mnt/*
+*.mo
+test.py
+/temp/*

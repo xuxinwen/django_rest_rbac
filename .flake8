@@ -1,0 +1,7 @@
+[flake8]
+exclude = .git,__pycache__,old,build,dist,*/migrations/*,manage.py,deps/*,venv/*,ignore/*,temp/*,mnt/*
+count = True
+show_source = True
+statistics = True
+max-line-length = 100
+ignore = F405, W503, W504, E252, E226
